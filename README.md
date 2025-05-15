@@ -1,4 +1,4 @@
-# <a href="https://vinodjangid07.github.io/Pexelicons" target="_blank">Pexelicons</a>
+# <a href="https://iamvny.github.io/Pexelicons/" target="_blank">Pexelicons</a>
 
 ![Pexelicons Logo](assets/images/Websitescreenshot.png)
 
